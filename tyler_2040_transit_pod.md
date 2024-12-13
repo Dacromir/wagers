@@ -13,7 +13,7 @@
 		- Eric agrees to be generous on this point
 		- The idea is that some people will be outliers (e.g. work far away from where they live) and this may not work for them. Most people work near where they live, and this should work for them.
 # Eric Wins
-- The above does not exist at 2040
+- The above does not exist on Jan 1, 2040
 # Wager Terms
 - The winner gets to name the loser's next pet
 	- The winner can choose to pass on a pet if they don't want to name it
